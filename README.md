@@ -9,7 +9,7 @@
   <img src="https://streak-stats.demolab.com?user=Alexffb32&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexffb32&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexffb32&radius=26&theme=redical&area=true&order=5" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Alexffb32&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Alexffb32&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4&rank=-?" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -106,6 +106,9 @@
   </a>
   <a href="https://stackoverflow.com/users/25680139/alexandre-bento" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://medium.com/@xandinho11102007" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
   <a href="https://dev.to/alexffb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
