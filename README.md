@@ -14,7 +14,11 @@
 
 ###
 
-<h2 align="center">👋 HeLllo World ! 👋<br>👾 My name is Alex and I'm a Junior FullStack from Portugal 👾<br>🔥 Passionate about  Games, Design, Multimedia, Business, Music and Sports 🔥<br>📚 Computer Programmer Student at the Fundao Professional School 📚<br>🚀 I am the founder of the Layout Dev project  ( layoutdev.pt )🚀</h2>
+<h2 align="center">👋 HeLllo World ! 👋<br>
+  👾 My name is Alex and I'm a Junior FullStack from Portugal 👾<br>
+  🔥 Passionate about  Games, Design, Multimedia, Business, Music and Sports 🔥<br>
+  📚 Computer Programmer Student at the Fundao Professional School 📚<br>
+  🚀 I am the founder of the Layout Dev project  ( layoutdev.pt )🚀</h2>
 
 ###
 
