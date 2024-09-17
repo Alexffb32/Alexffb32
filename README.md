@@ -1,8 +1,12 @@
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://yt3.googleusercontent.com/SGIdaY3tu0IW18exgtQRbhqbSNO0v578vnkRAzT2oqG6QJDleH_7eILiZ0vmtsyRqoxr7h8c=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
+  <img height="150" src="https://yt3.googleusercontent.com/SGIdaY3tu0IW18exgtQRbhqbSNO0v578vnkRAzT2oqG6QJDleH_7eILiZ0vmtsyRqoxr7h8c=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexffb32&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
