@@ -79,6 +79,12 @@
 ###
 
 <div align="center">
+  <a href="https://stardev.io/developers/Alexffb32"><img alt="Check out Alexffb32's profile on stardev.io" src="https://stardev.io/developers/Alexffb32/badge/languages/global.svg" /></a>  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/alexffb_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -117,16 +123,8 @@
 
 ###
 
-<a href="https://stardev.io/developers/Alexffb32"><img alt="Check out Alexffb32's profile on stardev.io" src="https://stardev.io/developers/Alexffb32/badge/languages/global.svg" /></a>
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Alexffb32/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Alexffb&theme=radical" alt="Layout with last medium posts"  />
 </div>
 
 ###
