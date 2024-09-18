@@ -117,6 +117,8 @@
 
 ###
 
+<a href="https://stardev.io/developers/Alexffb32"><img alt="Check out Alexffb32's profile on stardev.io" src="https://stardev.io/developers/Alexffb32/badge/languages/global.svg" /></a>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Alexffb32/count.svg?"  />
 </div>
