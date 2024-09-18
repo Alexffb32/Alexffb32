@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <a href="https://stardev.io/developers/Alexffb32"><img alt="Check out Alexffb32's profile on stardev.io" src="https://stardev.io/developers/Alexffb32/badge/languages/global.svg" /></a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexffb32&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Alexffb32&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexffb32&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -75,12 +81,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Alexffb32/Alexffb32/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://stardev.io/developers/Alexffb32"><img alt="Check out Alexffb32's profile on stardev.io" src="https://stardev.io/developers/Alexffb32/badge/languages/global.svg" /></a>  />
-</div>
 
 ###
 
