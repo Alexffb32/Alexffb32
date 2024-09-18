@@ -4,6 +4,15 @@
 
 ###
 
+
+<h2 align="center">👋 Hello World ! 👋<br>
+  👾 My name is Alex and I'm a Junior FullStack from Portugal 👾<br>
+  🔥 Passionate about  Games, Design, Tech, Multimedia, Business, Music and Sports 🔥<br>
+  📚 Computer Programmer Student at the Fundao Professional School 📚<br>
+  🚀 I am the founder of the <a href="https://layoutdev.pt" target="_blank"> Layout Dev</a> project 🚀</h2>
+
+###
+
 <div align="center">
   <a href="https://stardev.io/developers/Alexffb32"><img alt="Check out Alexffb32's profile on stardev.io" src="https://stardev.io/developers/Alexffb32/badge/languages/global.svg" /></a>
 </div>
@@ -17,14 +26,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexffb32&radius=26&theme=redical&area=true&order=5" height="150" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Alexffb32&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4&rank=-?" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<h2 align="center">👋 Hello World ! 👋<br>
-  👾 My name is Alex and I'm a Junior FullStack from Portugal 👾<br>
-  🔥 Passionate about  Games, Design, Tech, Multimedia, Business, Music and Sports 🔥<br>
-  📚 Computer Programmer Student at the Fundao Professional School 📚<br>
-  🚀 I am the founder of the <a href="https://layoutdev.pt" target="_blank"> Layout Dev</a> project 🚀</h2>
 
 ###
 
