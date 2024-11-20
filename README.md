@@ -6,7 +6,7 @@
 
 
 <h2 align="center">👋 Hello World ! 👋<br>
-  👾 My name is Alex and I'm a Junior FullStack from Portugal 👾<br>
+  👾 My name is Alex and I'm a Enterpreenuer and a Junior FullStack from Portugal 👾<br>
   🔥 Passionate about  Games, Design, Tech, Multimedia, Business, Music and Sports 🔥<br>
   📚 Computer Programmer Student at the Fundao Professional School 📚<br>
   🚀 I am the founder of the <a href="https://layoutdev.pt" target="_blank"> Layout Dev</a> project 🚀</h2>
